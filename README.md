@@ -1,4 +1,8 @@
+<!--
 ## Hi there 👋
+-->
+
+![vaporwave](https://github.com/user-attachments/assets/5d53e241-3753-4a26-90f8-bdafd8a30961)
 
 <!--
 **amarcvs/amarcvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
